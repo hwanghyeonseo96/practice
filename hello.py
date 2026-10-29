@@ -1,1 +1,4 @@
-print('hello, hyunseo')
+def hello():
+    print('hello, hyunseo')
+
+hello()
